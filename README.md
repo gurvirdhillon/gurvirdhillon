@@ -1,10 +1,10 @@
-## Hi there I'm Gurvir!👋
+## Hi there, I'm Gurvir!👋
 
 Currently Training as a Data Engineer @ <a href="https://digitalfutures.com">Digital Futures</a>  
   
-👨‍💻 Experience in web development  
-🐍 Experience in python programming, data manipulation and complex dataset handling  
-🗄️ Experience in database development (PostgreSQL and MongoDB)  
+👨‍💻 Experienced in web development  
+🐍 Experienced in python programming, data manipulation and complex dataset handling  
+🗄️ Experienced in database development (PostgreSQL and MongoDB)  
 ☁️ Currently working towards an AWS Data Engineering Certification, passionate about cloud infrastructure  
 
 Reach out to me via my <a href="https://gurvirdhillon.github.io/portfolio/" target_="blank">personal website</a>

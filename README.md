@@ -26,3 +26,13 @@ Reach out to me via my <a href="https://gurvirdhillon.github.io/portfolio/" targ
 ![3DS Max](https://img.shields.io/badge/3ds%20Max-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gurvirdhillon&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurvirdhillon&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurvirdhillon&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurvirdhillon&theme=github-dark)
+

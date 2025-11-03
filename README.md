@@ -3,7 +3,7 @@
 Currently Training as a Data Engineer @ <a href="https://digitalfutures.com">Digital Futures</a>  
   
 👨‍💻 Experience in web development  
-🐍 Experience in python programming  
+🐍 Experience in python programming, data manipulation and complex dataset handling  
 🗄️ Experience in database development (PostgreSQL and MongoDB)  
 ☁️ Currently working towards an AWS Data Engineering Certification, passionate about cloud infrastructure  
 

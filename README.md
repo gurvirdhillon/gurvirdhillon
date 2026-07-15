@@ -5,7 +5,7 @@ Currently Training as a Data Engineer @ <a href="https://digitalfutures.com">Dig
 👨‍💻 Experienced in web development  
 🐍 Experienced in python programming, data manipulation and complex dataset handling  
 🗄️ Experienced in database development (PostgreSQL and MongoDB)  
-☁️ Currently working towards an AWS Data Engineering Certification, passionate about cloud infrastructure  
+☁️ AWS Certified Data Engineer
 
 Reach out to me via my <a href="https://gurvirdhillon.github.io/portfolio/" target_="blank">personal website</a>
 
